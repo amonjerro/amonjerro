@@ -1,6 +1,6 @@
 Hi all, I'm Eduardo, a programmer from Peru. 
 
-I mostly work on NodeJS and Python. The projects I'm interested in are either silly game projects I make, simulations or procedural generation and machine learning.
+I mostly work on NodeJS and Python. The projects I'm interested in are either game projects I make, simulations or procedural generation and machine learning.
 
 I try to update rather frequently, but usually when I'm done with an idea (or lose interest in it), it's likely the repo will remain untouched from then on.
 
