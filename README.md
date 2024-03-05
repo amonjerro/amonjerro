@@ -2,8 +2,6 @@ Hi all, I'm Eduardo, a programmer from Peru. Currently, I'm a student at the MS 
 
 I mostly work on NodeJS, Python and C# as I'm most familiar with Unity as an engine. The projects I'm interested in are either game projects I make, simulations or procedural generation and machine learning.
 
-I try to update rather frequently, but usually when I'm done with an idea (or lose interest in it), it's likely the repo will remain untouched from then on.
-
 -----
 
 Saludos,
